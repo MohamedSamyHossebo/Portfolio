@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #2C3E50;
+}
+.navbar .nav-link{
+    color: white;
+    font-size: large;
+    font-family:sans-serif;
+    font-weight: bolder;
+}
+.navbar .navbar-brand{
+    color: white;
+    font-size: xx-large;
+    font-family:sans-serif;
+    font-weight: bolder;
+
+}
+.test{
+    background-color: teal;
+    border-radius: 5px;
+}
+
